@@ -1,3 +1,4 @@
+# Dados da questão: [[]]
 Perfeito — agora revisando diretamente do enunciado, os **dados corretos** são:
 
 ---
