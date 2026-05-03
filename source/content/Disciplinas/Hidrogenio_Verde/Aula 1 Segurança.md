@@ -1,9 +1,0 @@
-- [ ] Especificar as barreiras do queijo Suíço.
-- [ ] Revisão da gestão de segurança de processos:
-	- [ ] As bases
-	- [ ] Os pilares de cada base
-- [x] Ver sobre o Bow Tie: [link](https://www.youtube.com/watch?v=r3Nz-z3_p7k)
-- [ ] Ver sobre prontuário NR-13
-- [ ] Ler a norma NR-13
-- [x] Ver o que é o diagrama de Hommel: [Link](https://www.youtube.com/watch?v=9gcTSd4mGK0)
--  PHL - profissional legalmente habilitado

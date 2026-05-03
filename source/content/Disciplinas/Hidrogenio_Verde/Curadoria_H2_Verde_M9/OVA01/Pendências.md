@@ -1,2 +1,0 @@
-- [ ] Avaliar conteúdo de [[Pirólise de metano]], se vai ser útil ou não.
-- [ ]  Atualizar [[Tópicos da OVA-1#^fdb3b4]] com informações do artigo.

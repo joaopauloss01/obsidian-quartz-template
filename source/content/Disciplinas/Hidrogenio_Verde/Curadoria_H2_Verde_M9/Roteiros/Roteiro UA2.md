@@ -1,8 +1,0 @@
-Vai ser baseado em notícia também:
-1. [TotalEnergies e Air Products assinam acordo para entrega de Hidrogénio Verde (motor24.pt)](https://www.motor24.pt/sites/welectric/totalenergies-e-air-products-assinam-acordo-para-entrega-de-hidrogenio-verde/1639009/)
-2. [Bahia quer protagonismo na produção de hidrogênio verde | A TARDE](https://atarde.com.br/economia/bahia-quer-protagonismo-na-producao-de-hidrogenio-verde-1274109)
-3. [Petrobras estuda substituir hidrogênio fóssil por renovável nas refinarias (epbr.com.br)](https://epbr.com.br/petrobras-estuda-substituir-hidrogenio-fossil-por-renovavel-nas-refinarias/)
-4. na europa: [TotalEnergies fecha primeiro contrato de longo prazo de hidrogênio verde (epbr.com.br)](https://epbr.com.br/totalenergies-anuncia-primeiro-contrato-de-longo-prazo-de-hidrogenio-verde/)
-5. [Podem as empresas de Petróleo liderar o caminho para a descarbonização? (ey.com)](https://www.ey.com/pt_ao/assurance/podem-as-empresas-de-petroleo-liderar-o-caminho-para-a-descarbonizacao)
-6. [Novo centro de pesquisa vai estudar descarbonização da indústria offshore no Brasil (epbr.com.br)](https://epbr.com.br/novo-centro-de-pesquisa-vai-estudar-descarbonizacao-da-industria-offshore-no-brasil/)
-7. [Produção e Consumo de Hidrogênio em Refinarias no Brasil (epe.gov.br)](https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-667/NT-EPE-DPG-SDB-2022-01%20-%20Hidrog%C3%AAnio%20em%20Refinarias.pdf)

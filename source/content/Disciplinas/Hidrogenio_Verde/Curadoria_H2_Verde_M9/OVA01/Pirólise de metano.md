@@ -1,8 +1,0 @@
-Tópico que está dentro da UA1 - [[Tópicos da OVA-1|Seção 1]]
-Produção de Hidrogênio via Pirólise de Metano (Hidrogênio Turquesa) 
-
-O hidrogênio turquesa é obtido através de um processo inovador de pirólise do metano. Este método destaca-se pela produção de hidrogênio (H2) e carbono em estado sólido (Cs), como nanotubos de carbono ou materiais filamentosos. O carbono sólido gerado possui propriedades únicas, sendo amplamente aplicável em diversos processos industriais ou armazenável para uso futuro. O valor comercial do carbono sólido pode variar significativamente, de 400 euros a 1 milhão de euros, dependendo de sua forma, qualidade e aplicação específica, o que potencialmente eleva a viabilidade econômica deste método de produção de hidrogênio. 
-
-Diferente dos processos convencionais, como a reforma a vapor do gás natural, a pirólise do metano não resulta na emissão de dióxido de carbono (CO2), posicionando o hidrogênio turquesa como uma alternativa ambientalmente mais amigável. A sustentabilidade do processo é ainda mais reforçada quando a energia necessária para a pirólise provém de fontes renováveis, como a solar ou eólica, alinhando-se aos princípios de uma economia de baixo carbono. 
-
-Alguns especialistas consideram que, devido ao menor impacto ambiental e ao potencial de mercado do carbono sólido produzido, o hidrogênio turquesa apresenta grandes possibilidades de se estabelecer como uma opção competitiva no futuro panorama energético. A convergência entre inovação tecnológica e a demanda por processos produtivos sustentáveis coloca o hidrogênio turquesa em uma posição promissora para contribuir significativamente para a transição energética global. 
