@@ -1,0 +1,41 @@
+
+Questão 1:
+		- Amanda: fez somente Dkef para os poros;
+		- Antônio: fez como Amanda;
+		- Luiza e Júlia: usaram outra equação pra calcular o raio e ficou um pouco diferente. mas não calcularam o Def ordinário.
+		- Daniel Andrade: sem unidades e números muito grandes. Calculou o DAB, mas não entendi qual substância. Mas não calculou a DAef
+		- Daniel Kolbe: igual Amanda e demais.
+		- Fernanda e Roberto: fizeram como Amanda
+		- João Victor e Lucas Rivas: Amanda
+		- Juliana Negrão: Amanda
+		- Mailson: até colocou a fórmula, mas não calculou.
+		- Michel: Amanda
+		- Pedro: Amanda
+		- Tiago: Amanda
+Questão 2:
+		- Amanda: ok
+		- Antônio: ok;
+		- Luiza e Júlia: ok
+		- Daniel Andrade: dado de cp errado
+		- Daniel Kolbe: ok
+		- Fernanda e Roberto: ok
+		- João Victor e Lucas Rivas: ok
+		- Juliana Negrão: ok
+		- Mailson: ok
+		- Michel: ok
+		- Pedro: ok
+		- Tiago: ok
+Questão 3:
+		- Amanda: balanço errado e não calculou o tempo 1,5
+		- Antônio: balanço errado, mas calculou o tempo 2,5
+		- Luiza e Júlia: Antônio 2,5
+		- Daniel Andrade: cálculo estranho 1,0; não calculou tempo
+		- Daniel Kolbe: fez balanço, cálculo errado, sem tempo. 1,5
+		- Fernanda e Roberto: balanço errado, calculou o tempo. 2,0
+		- João Victor e Lucas Rivas: calculou, mas errado. 2,0
+		- Juliana Negrão: fez balanço, calculou, mas errado. 2,5
+		- Mailson: balanço errado
+		- Michel: tempo ok, balanço não. 3,5
+		- Pedro: erro no tempo, balanço com erros. 2,5
+		- Tiago: tempo ok, balanço com erros
+		- Márcio: erro no balanço; tempo ok. 3,5

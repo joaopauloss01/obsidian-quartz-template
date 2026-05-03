@@ -1,0 +1,27 @@
+Para estruturarmos uma aula de excelência focada na metodologia de projeto térmico e hidráulico de trocadores de calor do tipo casco e tubos, devemos conduzir os alunos da teoria fundamental para a lógica iterativa da engenharia de processos industrial. Como os seus alunos já dominam as geometrias básicas e os métodos térmicos ($\Delta T_{ML}$ e $\varepsilon\text{-}NUT$), a linha de raciocínio a seguir organiza os slides disponíveis em um roteiro sequencial de projeto (baseado no método de Kern).
+
+Apresente a aula seguindo esta sequência metodológica estruturada:
+
+**1. A Lógica Iterativa de Projeto** Inicie a aula desmistificando o projeto: deixe claro que num dimensionamento estamos interessados em descobrir o comprimento dos tubos, diâmetros do casco e dos tubos, além do número de tubos e passes. A estrutura lógica de um projeto exige assumir estimativas iniciais, calcular a performance térmica e hidráulica e, caso as perdas de carga ou a troca térmica não sejam aceitáveis, modificar os parâmetros e recalcular.
+
+**2. Alocação dos Fluidos (Regras Práticas)** Antes de qualquer cálculo, o projetista deve definir qual fluido escoa nos tubos e qual escoa no casco. Deve-se alocar para a passagem interna dos tubos: o fluido mais corrosivo, a água de resfriamento (por ser inerentemente suja e corrosiva), fluidos que demandem maiores pressões de operação, as correntes com temperaturas mais elevadas e os fluidos mais sujos (com exceção para feixes tubulares em U, cuja limpeza mecânica interna é inviável).
+
+**3. Resistência de Incrustação (Fouling) e Coeficiente Global** É fundamental que os alunos compreendam a diferença entre o coeficiente global limpo calculado ($U_{calc}$ ou $U_c$) e o coeficiente de projeto ($U_d$). O $U_d$ reflete as condições reais e leva em conta o aumento da resistência térmica ao longo da campanha do equipamento, ditada pelo coeficiente de depósito ($R_d$), onde $1/U_d = 1/U_c + R_d$. Apresente a tabela de $R_d$, demonstrando que varia criticamente com o fluido: o vapor d'água possui um valor baixo de 0,0001 h.m².°C/kcal, enquanto pentenos e resíduos atingem 0,0010 h.m².°C/kcal.
+
+**4. Estimativa Inicial da Geometria (Padrões TEMA)** Projete a arquitetura do trocador introduzindo as normas da TEMA (Tubular Exchanger Manufacturers Association).
+
+* **Tubos:** Explique que utilizamos diâmetros externos (DE) padronizados (como 3/4, 1, 1 1/4 in) e espessuras baseadas na escala BWG. O comprimento padronizado usual é de 8, 12, 16 e 20 ft.
+* **Arranjo dos Espelhos (Passo):** Demonstre as disposições em passo triangular ou passo quadrado, que definem a luz (espaçamento) e a densidade do feixe tubular.
+* **Passes:** Explique que os defletores fixados no cabeçote organizam o roteamento interno, permitindo 1, 2, 4, 6 ou até 8 passagens do fluido pelo lado dos tubos.
+
+**5. Cálculo Inicial da Área e Número de Tubos** Mostre como iniciar o cálculo estipulando um $U_d$ tabelado, calculando a área total necessária através da relação $A = Q / (U_d \cdot \Delta T_{ML} \cdot F_T)$. Destaque o critério técnico de que trocadores casco e tubos operam tipicamente na faixa de 3 m² a 1000 m² de área. De posse da área, ensine a determinar o número de tubos teóricos da unidade pela equação $N_t = A / (a'' \cdot L_t)$, onde $a''$ é a área externa por pé linear do tubo.
+
+**6. Modelagem Hidrodinâmica: Lado dos Tubos** Para os tubos, oriente-os a extrair da tabela a área de escoamento individual ($a_t'$) e, dividindo pela quantidade de tubos por passe, determinar a vazão mássica por unidade de área ($G_t$). Isso leva ao cálculo do Número de Reynolds ($Re_t$) avaliado com as propriedades calóricas, que permitirá o cômputo subsequente do coeficiente convectivo interno ($h_i$).
+
+**7. Modelagem Hidrodinâmica: Lado do Casco** Aqui entra um aspecto construtivo crucial: as chicanas (baffles). Elas são placas transversais que aumentam a turbulência do fluido no casco e evitam a flexão do feixe. A área de escoamento no casco ($A_c$) depende do diâmetro interno do casco ($DI_c$), do espaçamento (luz) entre os tubos ($C'$), do passo ($P_T$) e, criticamente, do espaçamento transversal entre as chicanas ($B$). Mostre que esse espaçamento $B$ é um parâmetro de projeto com limites máximos tabelados (ex: 60 in para casco de 3/4 in).
+
+Ainda no casco, aborde a proteção mecânica: a norma TEMA exige um "quebra-jato" (impingement baffle) para proteger o feixe da erosão logo no bocal de entrada se a energia cinética ($\rho v^2$) do fluido limpo ultrapassar 1500 lb/(ft.s²), ou 500 lb/(ft.s²) para fluidos corrosivos.
+
+**8. Fechamento: Validação Térmica e Teste Mecânico** A metodologia de Kern se encerra no critério de projeto em que o coeficiente limpo global ($U_c$), calculado a partir de $h_i$ e $h_o$, deve ser obrigatoriamente maior que o $U_d$ estipulado no início. Deve-se também checar se as velocidades geram perdas de carga maiores que as aceitáveis. Aprovado nos cálculos operacionais, comente sobre a segurança mecânica, indicando que a construção deve suportar um teste hidrostático à temperatura ambiente equivalente a 1,5 vezes a pressão de projeto, testando casco e feixe separadamente por no mínimo 30 minutos.
+
+_Nota Operacional: Se você desejar que eu gere diretamente um artefato como um "Slide Deck" (uma apresentação estruturada pronta para aula) ou um "Tailored Report" contendo um roteiro detalhado desse método de projeto para entregar como material de apoio aos seus alunos, basta solicitar a criação que acionarei as ferramentas do sistema._
