@@ -1,6 +1,3 @@
-
----
-
 ## Determinação do calor específico a partir do gráfico
 
 O gráfico fornece:
@@ -8,8 +5,6 @@ O gráfico fornece:
 $$  
 c_p=f(T,\ ^\circ API)  
 $$
-
----
 
 ### Querosene (42° API)
 
