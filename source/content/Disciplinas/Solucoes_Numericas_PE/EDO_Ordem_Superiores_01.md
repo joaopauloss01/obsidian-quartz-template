@@ -1,4 +1,4 @@
-# Tutorial: Resolução Numérica de EDOs de Ordem Superior no MATLAB
+# Tutorial: Resolução Numérica de EDOs de Ordem 2 no MATLAB
 
 #### 1. Fundamentação Teórica: A Redução de Ordem
 
@@ -104,5 +104,3 @@ Ao rodar este código com os alunos, recomendo que você peça para que eles alt
 - Mostre a eles que para $\zeta < 1$ (como o $0.5$ do código), o sistema oscila (comportamento subamortecido).
 - Para $\zeta > 1$ (ex: $1.5$), a oscilação desaparece (superamortecido).
 - Isso mostrará perfeitamente como o método numérico traduz o fenômeno físico estudado nos livros de Engenharia Química.
-
-Este material fornece o referencial teórico embasado com aplicação prática robusta para os seus alunos. Boa aula!
